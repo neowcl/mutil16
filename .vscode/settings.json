@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "can_exchange.h": "c",
+        "stm32f10x.h": "c",
+        "stm32f10x_conf.h": "c",
+        "systick.h": "c",
+        "schedule.h": "c",
+        "usart_interface.h": "c",
+        "stm32f10x_it.h": "c",
+        "gpio_par_inter.h": "c",
+        "rs485_exchange.h": "c"
+    }
+}
